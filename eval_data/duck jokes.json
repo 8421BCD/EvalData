@@ -1,0 +1,30 @@
+[
+    {
+        "template": "[MASK] jokes",
+        "ground_truth": [
+            "chicago bears jokes",
+            "horse jokes",
+            "chick-fil-a jokes",
+            "marvel jokes",
+            "egg jokes",
+            "elephant jokes",
+            "pork jokes",
+            "monkey jokes",
+            "geese jokes",
+            "mouse jokes",
+            "dog jokes",
+            "dungeons & dragons jokes",
+            "turtle jokes",
+            "chicken jokes",
+            "goose jokes",
+            "cat jokes",
+            "fish jokes",
+            "crab jokes",
+            "rabbit jokes",
+            "bird jokes",
+            "turkey jokes",
+            "waterfowl jokes",
+            "swan jokes"
+        ]
+    }
+]

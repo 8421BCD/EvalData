@@ -1,0 +1,25 @@
+[
+    {
+        "template": "[MASK] course",
+        "ground_truth": [
+            "powerpoint course",
+            "outlook course",
+            "word course",
+            "access course",
+            "vba course",
+            "google sheets course",
+            "data analysis course",
+            "spreadsheet course"
+        ]
+    },
+    {
+        "template": "excel [MASK]",
+        "ground_truth": [
+            "excel resources",
+            "excel instructor",
+            "excel certification",
+            "excel professional certificate",
+            "excel tutorial"
+        ]
+    }
+]

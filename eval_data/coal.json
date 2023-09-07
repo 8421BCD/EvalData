@@ -1,0 +1,19 @@
+[
+    {
+        "template": "[MASK]",
+        "ground_truth": [
+            "steel",
+            "oil",
+            "iron",
+            "power",
+            "gas",
+            "gasoline",
+            "petroleum",
+            "electricity",
+            "copper",
+            "water",
+            "natural gas",
+            "renewable energy"
+        ]
+    }
+]

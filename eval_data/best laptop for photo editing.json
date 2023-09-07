@@ -1,0 +1,33 @@
+[
+    {
+        "template": "best laptop for [MASK]",
+        "ground_truth": [
+            "best laptop for video editing",
+            "best laptop for games",
+            "best laptop for 3d modeling",
+            "best laptop for small business",
+            "best laptop for graphics",
+            "best laptop for computing",
+            "best laptop for photo and video editing",
+            "best laptop for image processing",
+            "best laptop for graphic design"
+        ]
+    },
+    {
+        "template": "best laptop for [MASK] editing",
+        "ground_truth": [
+            "best laptop for music editing",
+            "best laptop for software editing"
+        ]
+    },
+    {
+        "template": "best [MASK] for photo editing",
+        "ground_truth": [
+            "best screen for photo editing",
+            "best tv for photo editing",
+            "best hardware for photo editing",
+            "best processor for photo editing",
+            "best storage for photo editing"
+        ]
+    }
+]

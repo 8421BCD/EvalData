@@ -1,0 +1,39 @@
+[
+    {
+        "template": "[MASK] websites for students",
+        "ground_truth": [
+            "earth science websites for students",
+            "astronomy websites for students",
+            "biology websites for students",
+            "math websites for students",
+            "environmental science websites for students",
+            "physics websites for students",
+            "mathematics websites for students",
+            "geology websites for students",
+            "science websites for students"
+        ]
+    },
+    {
+        "template": "chemistry [MASK] for students",
+        "ground_truth": [
+            "chemistry blog for students",
+            "chemistry resources for students",
+            "chemistry videos for students",
+            "chemistry activities for students",
+            "chemistry apps for students",
+            "chemistry blogs for students",
+            "chemistry labs for students",
+            "chemistry courses for students",
+            "chemistry books for students",
+            "chemistry education for students"
+        ]
+    },
+    {
+        "template": "chemistry websites for [MASK]",
+        "ground_truth": [
+            "chemistry websites for teachers",
+            "chemistry websites for beginners",
+            "chemistry websites for kids"
+        ]
+    }
+]

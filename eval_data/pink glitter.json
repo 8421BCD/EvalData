@@ -1,0 +1,16 @@
+[
+    {
+        "template": "[MASK] glitter",
+        "ground_truth": [
+            "orange glitter",
+            "green glitter",
+            "white glitter",
+            "purple glitter",
+            "black glitter",
+            "yellow glitter",
+            "blue glitter",
+            "silver glitter",
+            "gold glitter"
+        ]
+    }
+]

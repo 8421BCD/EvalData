@@ -1,0 +1,26 @@
+[
+    {
+        "template": "[MASK] panel",
+        "ground_truth": [
+            "react panel",
+            "html panel",
+            "jquery panel",
+            "css panel",
+            "java panel",
+            "angular panel",
+            "javascript panel",
+            "bulma panel",
+            "tailwind panel"
+        ]
+    },
+    {
+        "template": "bootstrap [MASK]",
+        "ground_truth": [
+            "bootstrap border",
+            "bootstrap header",
+            "bootstrap typography",
+            "bootstrap footer",
+            "bootstrap checkbox"
+        ]
+    }
+]

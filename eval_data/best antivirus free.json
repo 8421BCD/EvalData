@@ -1,0 +1,12 @@
+[
+    {
+        "template": "best [MASK] free",
+        "ground_truth": [
+            "best malware protection free",
+            "best firewall free",
+            "best vpns free",
+            "best internet security free",
+            "best vpn free"
+        ]
+    }
+]

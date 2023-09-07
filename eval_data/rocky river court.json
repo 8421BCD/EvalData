@@ -1,0 +1,30 @@
+[
+    {
+        "template": "[MASK] court",
+        "ground_truth": [
+            "new york court",
+            "lakewood court",
+            "bay village court",
+            "ohio court",
+            "fairview court",
+            "new mexico court",
+            "cuyahoga county court",
+            "jefferson county court",
+            "fairview park court",
+            "west park court",
+            "river bend court",
+            "river shore court",
+            "rocky mountain court",
+            "garfield heights court",
+            "avon lake court",
+            "lorain county court"
+        ]
+    },
+    {
+        "template": "rocky river [MASK]",
+        "ground_truth": [
+            "rocky river police department",
+            "rocky river schools"
+        ]
+    }
+]

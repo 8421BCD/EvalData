@@ -1,0 +1,41 @@
+[
+    {
+        "template": "[MASK]",
+        "ground_truth": [
+            "mitochondria",
+            "cytoplasm",
+            "lysosomes",
+            "nucleus",
+            "endoplasmic reticulum",
+            "plasma membrane",
+            "cell wall",
+            "cell structure",
+            "lipid bilayer",
+            "phospholipid bilayer",
+            "biological membrane",
+            "phospholipid membrane"
+        ]
+    },
+    {
+        "template": "[MASK] membrane",
+        "ground_truth": [
+            "transport membrane",
+            "molecular membrane",
+            "prokaryotic membrane",
+            "nucleus membrane",
+            "phospholipid bilayer membrane",
+            "lipids membrane",
+            "molecule membrane",
+            "mitochondria membrane",
+            "proteins membrane",
+            "cytoplasm membrane",
+            "plasma membrane",
+            "semipermeable membrane",
+            "phospholipid membrane",
+            "biological membrane",
+            "nuclear membrane",
+            "mitochondrial membrane",
+            "lysosomes membrane"
+        ]
+    }
+]

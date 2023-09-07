@@ -1,0 +1,23 @@
+[
+    {
+        "template": "[MASK]",
+        "ground_truth": [
+            "queensof the stone age",
+            "randy rhoads",
+            "pierce the veil",
+            "frankie banali",
+            "queensryche",
+            "hollywood undead",
+            "queens of the stone age",
+            "motley crue",
+            "poison",
+            "slayer",
+            "iron maiden",
+            "anthrax",
+            "def leppard",
+            "metallica",
+            "guns n roses",
+            "megadeth"
+        ]
+    }
+]

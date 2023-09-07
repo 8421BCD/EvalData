@@ -1,0 +1,24 @@
+[
+    {
+        "template": "apple cider [MASK]",
+        "ground_truth": [
+            "apple cider baking soda",
+            "apple cider sugar",
+            "apple cider honey",
+            "apple cider wine",
+            "apple cider tea",
+            "apple cider drinks",
+            "apple cider juice",
+            "apple cider pills",
+            "apple cider drink"
+        ]
+    },
+    {
+        "template": "[MASK]",
+        "ground_truth": [
+            "white vinegar",
+            "rice vinegar",
+            "coconut vinegar"
+        ]
+    }
+]

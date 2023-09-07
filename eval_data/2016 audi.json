@@ -1,0 +1,38 @@
+[
+    {
+        "template": "2016 [MASK]",
+        "ground_truth": [
+            "2016 porsche",
+            "2016 lexus",
+            "2016 chrysler",
+            "2016 infiniti",
+            "2016 acura",
+            "2016 bmw",
+            "2016 mercedes-benz",
+            "2016 hyundai",
+            "2016 nissan",
+            "2016 volvo",
+            "2016 cadillac",
+            "2016 volkswagen",
+            "2016 mazda",
+            "2016 mercedes"
+        ]
+    },
+    {
+        "template": "[MASK] audi",
+        "ground_truth": [
+            "2018 audi",
+            "2009 audi",
+            "2010 audi",
+            "2012 audi",
+            "2011 audi",
+            "2014 audi",
+            "2015 audi",
+            "2002 audi",
+            "2021 audi",
+            "2020 audi",
+            "2019 audi",
+            "2017 audi"
+        ]
+    }
+]

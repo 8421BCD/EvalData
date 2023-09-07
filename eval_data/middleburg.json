@@ -1,0 +1,18 @@
+[
+    {
+        "template": "[MASK]",
+        "ground_truth": [
+            "blacksburg",
+            "martinsville",
+            "petersburg",
+            "staunton",
+            "leesburg",
+            "waynesboro",
+            "loudoun county",
+            "aldie",
+            "round hill",
+            "ashburn",
+            "purcellville"
+        ]
+    }
+]

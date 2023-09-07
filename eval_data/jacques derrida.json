@@ -1,0 +1,15 @@
+[
+    {
+        "template": "[MASK]",
+        "ground_truth": [
+            "edmund husserl",
+            "hannah arendt",
+            "john searle",
+            "jacques lacan",
+            "gilles deleuze",
+            "michel foucault",
+            "judith butler",
+            "martin heidegger"
+        ]
+    }
+]

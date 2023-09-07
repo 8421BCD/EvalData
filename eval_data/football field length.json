@@ -1,0 +1,29 @@
+[
+    {
+        "template": "[MASK] field length",
+        "ground_truth": [
+            "tennis field length",
+            "basketball field length",
+            "volleyball field length",
+            "ultimate disc field length",
+            "softball field length",
+            "cricket field length",
+            "baseball field length",
+            "hockey field length",
+            "lacrosse field length",
+            "rugby field length"
+        ]
+    },
+    {
+        "template": "football field [MASK]",
+        "ground_truth": [
+            "football field area",
+            "football field shape",
+            "football field height",
+            "football field dimension",
+            "football field width",
+            "football field size",
+            "football field dimensions"
+        ]
+    }
+]

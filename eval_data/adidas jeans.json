@@ -1,0 +1,39 @@
+[
+    {
+        "template": "[MASK] jeans",
+        "ground_truth": [
+            "calvin klein jeans",
+            "tommy jeans",
+            "converse jeans",
+            "tommy hilfiger jeans",
+            "clarks jeans",
+            "nike jeans",
+            "puma jeans",
+            "hugo boss jeans",
+            "new balance jeans",
+            "reebok jeans",
+            "wrangler jeans",
+            "levis jeans",
+            "fila jeans",
+            "lee jeans"
+        ]
+    },
+    {
+        "template": "adidas [MASK]",
+        "ground_truth": [
+            "adidas shorts",
+            "adidas pajamas",
+            "adidas shoes",
+            "adidas sweatpants",
+            "adidas coats & jackets",
+            "adidas pants",
+            "adidas sweaters",
+            "adidas shirts",
+            "adidas track pants",
+            "adidas jacket",
+            "adidas hoodie",
+            "adidas sweatshirts",
+            "adidas sneakers"
+        ]
+    }
+]

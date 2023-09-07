@@ -1,0 +1,34 @@
+[
+    {
+        "template": "girls [MASK]",
+        "ground_truth": [
+            "girls jeans",
+            "girls tops",
+            "girls hoodies",
+            "girls pants",
+            "girls dresses",
+            "girls jackets",
+            "girls sleepwear",
+            "girls jerseys",
+            "girls shirts",
+            "girls slides",
+            "girls shoes",
+            "girls leggings",
+            "girls shorts",
+            "girls coats & jackets",
+            "girls sweaters",
+            "girls socks & underwear",
+            "girls sweatshirts",
+            "girls joggers",
+            "girls sweatpants"
+        ]
+    },
+    {
+        "template": "[MASK] tracksuits",
+        "ground_truth": [
+            "boys",
+            "women",
+            "men"
+        ]
+    }
+]

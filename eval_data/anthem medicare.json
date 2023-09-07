@@ -1,0 +1,27 @@
+[
+    {
+        "template": "[MASK] medicare",
+        "ground_truth": [
+            "blue cross medicare",
+            "american express medicare",
+            "united healthcare medicare",
+            "blue shield medicare",
+            "aetna medicare",
+            "health net medicare",
+            "humana medicare",
+            "cigna medicare"
+        ]
+    },
+    {
+        "template": "anthem [MASK]",
+        "ground_truth": [
+            "anthem medicaid",
+            "anthem car insurance",
+            "anthem health insurance",
+            "anthem insurance",
+            "anthem policy",
+            "anthem benefits",
+            "anthem healthcare"
+        ]
+    }
+]

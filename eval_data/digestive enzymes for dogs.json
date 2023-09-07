@@ -1,0 +1,26 @@
+[
+    {
+        "template": "[MASK] for dogs",
+        "ground_truth": [
+            "krill oil for dogs",
+            "vegetables for dogs",
+            "supplements for dogs",
+            "food for dogs",
+            "probiotics for dogs",
+            "digestive supplements for dogs",
+            "recipes for dogs",
+            "diet for dogs",
+            "digestive health for dogs",
+            "digestive food for canines",
+            "digestive aids for dogs",
+            "digestive aid for dogs",
+            "digestive support for dogs"
+        ]
+    },
+    {
+        "template": "digestive enzymes for [MASK]",
+        "ground_truth": [
+            "digestive enzymes for cats"
+        ]
+    }
+]

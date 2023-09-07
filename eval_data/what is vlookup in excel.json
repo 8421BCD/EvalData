@@ -1,0 +1,23 @@
+[
+    {
+        "template": "what is [MASK] in excel",
+        "ground_truth": [
+            "what is lookup in excel",
+            "what is match in excel",
+            "what is lookup function in excel",
+            "what is sumif in excel",
+            "what is find in excel",
+            "what is formulas in excel",
+            "what is cell reference in excel",
+            "what is pivot tables in excel",
+            "what is xlookup in excel",
+            "what is average in excel",
+            "what is look up in excel",
+            "what is conditional formatting in excel",
+            "what is hlookup in excel",
+            "what is charts in excel",
+            "what is index in excel",
+            "what is index match in excel"
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "template": "can stress cause [MASK]",
+        "ground_truth": [
+            "can stress cause facial pain",
+            "can stress cause muscle tension",
+            "can stress cause arthritis",
+            "can stress cause abdominal pain",
+            "can stress cause chronic fatigue",
+            "can stress cause neck pain",
+            "can stress cause nerve pain",
+            "can stress cause complex regional pain syndrome",
+            "can stress cause chronic pain",
+            "can stress cause chest pain",
+            "can stress cause sciatica",
+            "can stress cause joint pain",
+            "can stress cause anxiety",
+            "can stress cause muscle pain",
+            "can stress cause shoulder pain",
+            "can stress cause depression"
+        ]
+    },
+    {
+        "template": "can [MASK] cause back pain",
+        "ground_truth": [
+            "can anxiety cause back pain",
+            "can trauma cause back pain",
+            "can depression cause back pain",
+            "can chronic fatigue cause back pain",
+            "can tension cause back pain"
+        ]
+    },
+    {
+        "template": "can stress cause [MASK] pain",
+        "ground_truth": [
+            "can stress cause shoulder tension pain",
+            "can stress cause neck pain"
+        ]
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "template": "[MASK] lights",
+        "ground_truth": [
+            "right lights",
+            "safety lights",
+            "turn lights",
+            "warning lights",
+            "emergency lights",
+            "flashing lights",
+            "caution lights"
+        ]
+    }
+]

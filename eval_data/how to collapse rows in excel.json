@@ -1,0 +1,34 @@
+[
+    {
+        "template": "how to collapse [MASK] in excel",
+        "ground_truth": [
+            "how to collapse columns in excel",
+            "how to collapse outline in excel",
+            "how to collapse rows and columns in excel",
+            "how to collapse fields in excel"
+        ]
+    },
+    {
+        "template": "how to [MASK] rows in excel",
+        "ground_truth": [
+            "how to group rows in excel",
+            "how to hide rows in excel",
+            "how to expand rows in excel",
+            "how to show all rows in excel",
+            "how to enlarge rows in excel",
+            "how to merge rows in excel",
+            "how to delete rows in excel",
+            "how to display hidden rows in excel",
+            "how to filter rows in excel",
+            "how to unhide rows in excel"
+        ]
+    },
+    {
+        "template": "how to collapse rows in [MASK]",
+        "ground_truth": [
+            "how to collapse rows in smartsheet",
+            "how to collapse rows in google sheets",
+            "how to collapse rows in word"
+        ]
+    }
+]

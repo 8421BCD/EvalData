@@ -1,0 +1,29 @@
+[
+    {
+        "template": "[MASK] blush",
+        "ground_truth": [
+            "orange blush",
+            "yellow blush",
+            "blue blush",
+            "white blush",
+            "brown blush",
+            "red blush",
+            "purple blush",
+            "green blush",
+            "fuchsia blush",
+            "coral blush",
+            "magenta blush",
+            "rose blush",
+            "peach blush"
+        ]
+    },
+    {
+        "template": "pink [MASK]",
+        "ground_truth": [
+            "pink cream",
+            "pink powder",
+            "pink eyeshadow",
+            "pink concealer"
+        ]
+    }
+]

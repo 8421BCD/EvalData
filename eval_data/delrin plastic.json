@@ -1,0 +1,19 @@
+[
+    {
+        "template": "[MASK] plastic",
+        "ground_truth": [
+            "acetal plastic",
+            "pvc plastic",
+            "nylon plastic",
+            "fiberglass plastic",
+            "abs plastic",
+            "ultem plastic",
+            "uhmw plastic",
+            "polyetherimide plastic",
+            "acrylic plastic",
+            "PVC plastic",
+            "polypropylene plastic",
+            "polycarbonate plastic"
+        ]
+    }
+]

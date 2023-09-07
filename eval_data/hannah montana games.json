@@ -1,0 +1,27 @@
+[
+    {
+        "template": "[MASK] games",
+        "ground_truth": [
+            "disney cars games",
+            "spiderman games",
+            "mickey mouse games",
+            "spongebob games",
+            "dress up games",
+            "zack and cody games",
+            "scooby doo games",
+            "monster high games",
+            "kim possible games",
+            "barbie games",
+            "power rangers games",
+            "bratz games",
+            "frozen games",
+            "my little pony games",
+            "moana games",
+            "tangled games",
+            "dora games",
+            "peppa pig games",
+            "disney princess games",
+            "cinderella games"
+        ]
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "template": "[MASK]",
+        "ground_truth": [
+            "iphone",
+            "apple watch",
+            "mac",
+            "ipad"
+        ]
+    }
+]

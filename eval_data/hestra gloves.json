@@ -1,0 +1,27 @@
+[
+    {
+        "template": "[MASK] gloves",
+        "ground_truth": [
+            "saucony gloves",
+            "kawasaki gloves",
+            "columbia gloves",
+            "troy lee designs gloves",
+            "puma gloves",
+            "dolce & gabbana gloves",
+            "burton gloves",
+            "obermeyer gloves",
+            "the north face gloves",
+            "reebok gloves",
+            "mizuno gloves",
+            "nike gloves",
+            "arc'teryx gloves",
+            "outdoor research gloves",
+            "mammut gloves",
+            "norrona gloves",
+            "north face gloves",
+            "marmot gloves",
+            "patagonia gloves",
+            "black diamond gloves"
+        ]
+    }
+]

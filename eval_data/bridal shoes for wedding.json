@@ -1,0 +1,17 @@
+[
+    {
+        "template": "bridal [MASK] for wedding",
+        "ground_truth": [
+            "bridal accessories for wedding",
+            "bridal bags for wedding",
+            "bridal gifts for wedding",
+            "bridal jewelry for wedding",
+            "bridal dresses for wedding",
+            "bridal handbags for wedding and jewelry for wedding",
+            "bridal handbags for wedding",
+            "bridal pants for wedding",
+            "bridal suits & tuxedos for wedding",
+            "bridal heel for wedding"
+        ]
+    }
+]

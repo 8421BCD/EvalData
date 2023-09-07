@@ -1,0 +1,35 @@
+[
+    {
+        "template": "essential oils safe for [MASK]",
+        "ground_truth": [
+            "essential oils safe for small pets",
+            "essential oils safe for reptiles",
+            "essential oils safe for pets",
+            "essential oils safe for horses",
+            "essential oils safe for birds",
+            "essential oils safe for rabbits",
+            "essential oils safe for puppies",
+            "essential oils safe for cats",
+            "essential oils safe for canines"
+        ]
+    },
+    {
+        "template": "[MASK] safe for dogs",
+        "ground_truth": [
+            "carrier oils safe for dogs",
+            "tea tree oil safe for dogs",
+            "flaxseed oil safe for dogs",
+            "lavender safe for dogs",
+            "carrier oil safe for dogs",
+            "health safe for dogs",
+            "recipes safe for dogs",
+            "aromatherapy safe for dogs",
+            "lavender oil safe for dogs",
+            "lavender oils safe for dogs",
+            "non-toxic oils safe for dogs",
+            "natural remedies safe for dogs",
+            "natural oils safe for dogs",
+            "plant oils safe for dogs"
+        ]
+    }
+]

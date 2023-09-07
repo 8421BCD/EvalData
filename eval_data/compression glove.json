@@ -1,0 +1,30 @@
+[
+    {
+        "template": "compression [MASK]",
+        "ground_truth": [
+            "compression short",
+            "compression socks",
+            "compression shirts",
+            "compression shirt",
+            "compression brace",
+            "compression wrap",
+            "compression pants",
+            "compression sleeve",
+            "compression sock",
+            "compression stockings"
+        ]
+    },
+    {
+        "template": "[MASK] glove",
+        "ground_truth": [
+            "copper glove",
+            "finger glove",
+            "copper arthritis glove",
+            "arthritis glove",
+            "pain glove",
+            "thermal glove",
+            "support glove",
+            "wrist glove"
+        ]
+    }
+]

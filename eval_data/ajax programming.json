@@ -1,0 +1,16 @@
+[
+    {
+        "template": "[MASK] programming",
+        "ground_truth": [
+            "javascript programming",
+            "php programming",
+            "c programming",
+            "python programming",
+            "java programming",
+            "perl programming",
+            "xml programming",
+            "css programming",
+            "jquery programming"
+        ]
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "template": "archangel [MASK]",
+        "ground_truth": [
+            "archangel prayer",
+            "archangel gabriel",
+            "archangel michael",
+            "archangel paul",
+            "archangel chamuel",
+            "archangel uriel",
+            "archangel azrael",
+            "archangel ariel",
+            "archangel jophiel"
+        ]
+    }
+]

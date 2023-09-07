@@ -1,0 +1,12 @@
+[
+    {
+        "template": "finding [MASK] asymptotes",
+        "ground_truth": [
+            "finding vertical asymptotes",
+            "finding slant asymptotes",
+            "finding oblique asymptotes",
+            "finding domain of asymptotes",
+            "finding range of asymptotes"
+        ]
+    }
+]

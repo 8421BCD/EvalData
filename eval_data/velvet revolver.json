@@ -1,0 +1,23 @@
+[
+    {
+        "template": "[MASK]",
+        "ground_truth": [
+            "dave kushner",
+            "audioslave",
+            "stone temple pilots",
+            "black label society",
+            "scott weiland",
+            "duff mckagan",
+            "slash",
+            "alice in chains",
+            "black label society rock",
+            "pearl jam",
+            "soundgarden",
+            "slash rock",
+            "stone temple pilots rock",
+            "audioslave rock",
+            "guns n roses",
+            "king diamond rock"
+        ]
+    }
+]

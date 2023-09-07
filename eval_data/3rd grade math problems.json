@@ -1,0 +1,34 @@
+[
+    {
+        "template": "[MASK] grade math problems",
+        "ground_truth": [
+            "1st grade math problems",
+            "6th grade math problems",
+            "9th grade math problems",
+            "2nd grade math problems",
+            "7th grade math problems",
+            "4th grade math problems",
+            "5th grade math problems"
+        ]
+    },
+    {
+        "template": "3rd grade [MASK] problems",
+        "ground_truth": [
+            "3rd grade writing problems",
+            "3rd grade reading problems",
+            "3rd grade physics problems",
+            "3rd grade vocabulary problems",
+            "3rd grade computer science problems",
+            "3rd grade social studies problems",
+            "3rd grade science problems",
+            "3rd grade foreign language problems",
+            "3rd grade english problems",
+            "3rd grade spelling problems",
+            "3rd grade geography problems",
+            "3rd grade history problems",
+            "3rd grade arithmetic problems",
+            "3rd grade algebra problems",
+            "3rd grade geometry problems"
+        ]
+    }
+]

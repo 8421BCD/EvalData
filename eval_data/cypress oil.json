@@ -1,0 +1,19 @@
+[
+    {
+        "template": "[MASK] oil",
+        "ground_truth": [
+            "frankincense oil",
+            "cinnamon bark oil",
+            "cummins oil",
+            "essential oil",
+            "marjoram oil",
+            "eucalyptus oil",
+            "rosemary oil",
+            "clary sage oil",
+            "pine oil",
+            "lavender oil",
+            "peppermint oil",
+            "tea tree oil"
+        ]
+    }
+]

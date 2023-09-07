@@ -1,0 +1,29 @@
+[
+    {
+        "template": "[MASK] for kids",
+        "ground_truth": [
+            "soccer for kids",
+            "sports for kids",
+            "volleyball for kids",
+            "football for kids",
+            "tennis for kids",
+            "hockey for kids",
+            "baseball for kids"
+        ]
+    },
+    {
+        "template": "basketball for [MASK]",
+        "ground_truth": [
+            "basketball for women",
+            "basketball for men",
+            "basketball for players",
+            "basketball for youths",
+            "basketball for toddlers",
+            "basketball for youth",
+            "basketball for juniors",
+            "basketball for young ones",
+            "basketball for children",
+            "basketball for beginners"
+        ]
+    }
+]

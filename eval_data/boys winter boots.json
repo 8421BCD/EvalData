@@ -1,0 +1,28 @@
+[
+    {
+        "template": "boys [MASK] boots",
+        "ground_truth": [
+            "boys rain boots",
+            "boys outdoor boots",
+            "boys dress boots",
+            "boys hiking boots",
+            "boys fashion boots",
+            "boys casual boots",
+            "boys snow boots",
+            "boys cold weather boots",
+            "boys waterproof boots",
+            "boys insulated boots"
+        ]
+    },
+    {
+        "template": "boys winter [MASK]",
+        "ground_truth": [
+            "boys winter boat shoes",
+            "boys winter casual shoes",
+            "boys winter shoes",
+            "boys winter socks",
+            "boys winter sandals",
+            "boys winter footwear"
+        ]
+    }
+]

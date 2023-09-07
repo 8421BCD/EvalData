@@ -1,0 +1,25 @@
+[
+    {
+        "template": "[MASK]",
+        "ground_truth": [
+            "mental retardation",
+            "seizures",
+            "cervical cancer",
+            "omphalocele",
+            "craniosynostosis",
+            "diaphragmatic hernia",
+            "diphtheria",
+            "dyscephaly",
+            "short stature",
+            "hypotonia",
+            "gastroschisis",
+            "intellectual disability",
+            "pachygyria",
+            "microencephaly",
+            "ventriculomegaly",
+            "micrognathia",
+            "hydrocephalus",
+            "agenesis of corpus callosum"
+        ]
+    }
+]

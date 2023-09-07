@@ -1,0 +1,31 @@
+[
+    {
+        "template": "download [MASK]",
+        "ground_truth": [
+            "download filmstock",
+            "download uniconverter",
+            "download vimeo",
+            "download wondershare",
+            "download davinci resolve",
+            "download final cut pro",
+            "download sony vegas",
+            "download adobe premiere",
+            "download camtasia",
+            "download dr.fone",
+            "download pdfelement"
+        ]
+    },
+    {
+        "template": "[MASK] filmora",
+        "ground_truth": [
+            "online filmora",
+            "free filmora",
+            "user guide filmora",
+            "get filmora",
+            "acquire filmora",
+            "install filmora",
+            "obtain filmora",
+            "access filmora"
+        ]
+    }
+]

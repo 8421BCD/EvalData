@@ -1,0 +1,25 @@
+[
+    {
+        "template": "do [MASK] produce oxygen",
+        "ground_truth": [
+            "do flowers produce oxygen",
+            "do shrubs produce oxygen",
+            "do forests produce oxygen",
+            "do plants produce oxygen",
+            "do lakes produce oxygen",
+            "do animals produce oxygen",
+            "do photosynthesis produce oxygen",
+            "do leaves produce oxygen",
+            "do jungles produce oxygen",
+            "do vegetation produce oxygen",
+            "do greenery produce oxygen"
+        ]
+    },
+    {
+        "template": "do trees produce [MASK]",
+        "ground_truth": [
+            "do trees produce carbon dioxide",
+            "do trees produce air"
+        ]
+    }
+]

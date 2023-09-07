@@ -1,0 +1,39 @@
+[
+    {
+        "template": "[MASK] signs",
+        "ground_truth": [
+            "addiction signs",
+            "heart disease signs",
+            "ptsd signs",
+            "bipolar disorder signs",
+            "psychotic signs",
+            "anxiety signs",
+            "stress signs",
+            "suicide signs",
+            "panic disorders signs",
+            "anxiety disorders signs",
+            "schizophrenia signs",
+            "panic disorder signs",
+            "emotional distress signs",
+            "mood disorder signs"
+        ]
+    },
+    {
+        "template": "depression [MASK]",
+        "ground_truth": [
+            "depression treatment & prevention",
+            "depression diagnosis",
+            "depression overview",
+            "depression symptoms & medication",
+            "depression essential oils",
+            "depression causes",
+            "depression symptoms",
+            "depression supplements",
+            "depression treatment",
+            "depression prevention",
+            "depression clues",
+            "depression indicators",
+            "depression red flags"
+        ]
+    }
+]

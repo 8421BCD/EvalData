@@ -1,0 +1,19 @@
+[
+    {
+        "template": "[MASK]",
+        "ground_truth": [
+            "czech republic",
+            "spain",
+            "germany",
+            "slovakia",
+            "lithuania",
+            "russia",
+            "hungary",
+            "belarus",
+            "france",
+            "italy",
+            "ukraine",
+            "austria"
+        ]
+    }
+]

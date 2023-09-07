@@ -1,0 +1,32 @@
+[
+    {
+        "template": "[MASK] email setup",
+        "ground_truth": [
+            "gmail email setup",
+            "microsoft edge email setup",
+            "google mail email setup",
+            "windows email setup",
+            "thunderbird email setup",
+            "icloud email setup",
+            "hotmail email setup",
+            "yahoo email setup",
+            "aol email setup"
+        ]
+    },
+    {
+        "template": "outlook [MASK] setup",
+        "ground_truth": [
+            "outlook calendar setup",
+            "outlook account setup",
+            "outlook name setup",
+            "outlook server setup",
+            "outlook contacts setup",
+            "outlook accounts setup",
+            "outlook contact setup",
+            "outlook task setup",
+            "outlook security setup",
+            "outlook note setup",
+            "outlook reminder setup"
+        ]
+    }
+]

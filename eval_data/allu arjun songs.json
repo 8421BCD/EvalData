@@ -1,0 +1,30 @@
+[
+    {
+        "template": "[MASK] songs",
+        "ground_truth": [
+            "jackie shroff songs",
+            "salman khan songs",
+            "karthik songs",
+            "thaman s songs",
+            "prabhas songs",
+            "ram charan songs",
+            "jr ntr songs",
+            "pawan kalyan songs",
+            "mahesh babu songs"
+        ]
+    },
+    {
+        "template": "allu arjun [MASK]",
+        "ground_truth": [
+            "allu arjun videos",
+            "allu arjun albums",
+            "allu arjun podcasts",
+            "allu arjun overview",
+            "allu arjun history",
+            "allu arjun movies",
+            "allu arjun telugu",
+            "allu arjun films",
+            "allu arjun dances"
+        ]
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "template": "[MASK] function in excel",
+        "ground_truth": [
+            "text function in excel",
+            "code function in excel",
+            "left function in excel",
+            "find function in excel",
+            "upper function in excel",
+            "proper function in excel",
+            "substitute function in excel",
+            "mid function in excel",
+            "exact function in excel",
+            "trigonometry function in excel",
+            "replace function in excel",
+            "clean function in excel",
+            "concatenate function in excel"
+        ]
+    }
+]

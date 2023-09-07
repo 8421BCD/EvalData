@@ -1,0 +1,31 @@
+[
+    {
+        "template": "canada [MASK]",
+        "ground_truth": [
+            "canada coast guard",
+            "canada air force",
+            "canada aircraft",
+            "canada army",
+            "canada government",
+            "canada military"
+        ]
+    },
+    {
+        "template": "[MASK] navy",
+        "ground_truth": [
+            "south america navy",
+            "singapore navy",
+            "japan navy",
+            "germany navy",
+            "brazil navy",
+            "france navy",
+            "united states navy",
+            "new zealand navy",
+            "norway navy",
+            "australia navy",
+            "netherlands navy",
+            "uk navy",
+            "usa navy"
+        ]
+    }
+]

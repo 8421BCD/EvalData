@@ -1,0 +1,32 @@
+[
+    {
+        "template": "[MASK] cartoon",
+        "ground_truth": [
+            "farm cartoon",
+            "farming cartoon",
+            "farm animal cartoon",
+            "truck cartoon",
+            "cattle cartoon",
+            "motorcycle cartoon",
+            "farmer cartoon",
+            "trailer cartoon",
+            "jeep cartoon",
+            "excavator cartoon",
+            "bulldozer cartoon",
+            "backhoe cartoon",
+            "loader cartoon",
+            "car cartoon",
+            "agricultural cartoon",
+            "harvester cartoon"
+        ]
+    },
+    {
+        "template": "tractor [MASK]",
+        "ground_truth": [
+            "tractor clipart",
+            "tractor photos",
+            "tractor vector illustration",
+            "tractor illustration"
+        ]
+    }
+]

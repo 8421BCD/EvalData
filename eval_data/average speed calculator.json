@@ -1,0 +1,41 @@
+[
+    {
+        "template": "average [MASK] calculator",
+        "ground_truth": [
+            "average distance calculator",
+            "average time calculator",
+            "average pressure calculator",
+            "average velocity calculator",
+            "average temperature calculator",
+            "average distance travelled calculator",
+            "average acceleration calculator",
+            "average pace calculator"
+        ]
+    },
+    {
+        "template": "[MASK] calculator",
+        "ground_truth": [
+            "rpm calculator",
+            "instantaneous speed calculator",
+            "distance travelled calculator",
+            "pace calculator",
+            "time taken calculator",
+            "average weight calculator",
+            "average velocity calculator",
+            "rotational speed calculator",
+            "distance calculator",
+            "kinetic energy calculator",
+            "time calculator",
+            "length calculator",
+            "speed distance time calculator",
+            "temperature calculator"
+        ]
+    },
+    {
+        "template": "[MASK] speed calculator",
+        "ground_truth": [
+            "instantaneous speed calculator",
+            "rotational speed calculator"
+        ]
+    }
+]

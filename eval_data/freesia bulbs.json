@@ -1,0 +1,27 @@
+[
+    {
+        "template": "[MASK] bulbs",
+        "ground_truth": [
+            "ranunculus bulbs",
+            "allium bulbs",
+            "tulip bulbs",
+            "calla lily bulbs",
+            "calla bulbs",
+            "gladiolus bulbs",
+            "lily bulbs",
+            "lily of the valley bulbs",
+            "hyacinth bulbs",
+            "iris bulbs",
+            "daffodil bulbs"
+        ]
+    },
+    {
+        "template": "freesia [MASK]",
+        "ground_truth": [
+            "freesia flowers",
+            "freesia flower",
+            "freesia plants",
+            "freesia seeds"
+        ]
+    }
+]

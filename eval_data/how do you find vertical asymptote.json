@@ -1,0 +1,12 @@
+[
+    {
+        "template": "how do you find [MASK] asymptote",
+        "ground_truth": [
+            "how do you find slant asymptote",
+            "how do you find graph asymptote",
+            "how do you find horizontal asymptote",
+            "how do you find rational function asymptote",
+            "how do you find oblique asymptote"
+        ]
+    }
+]

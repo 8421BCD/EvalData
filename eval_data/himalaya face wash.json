@@ -1,0 +1,47 @@
+[
+    {
+        "template": "himalaya [MASK]",
+        "ground_truth": [
+            "himalaya foot cream",
+            "himalaya face cream",
+            "himalaya anti ageing cream",
+            "himalaya body lotion",
+            "himalaya body wash",
+            "himalaya cleanser",
+            "himalaya sunscreen",
+            "himalaya balm",
+            "himalaya lip balm",
+            "himalaya makeup",
+            "himalaya body cream",
+            "himalaya skin care",
+            "himalaya face care",
+            "himalaya shower gel",
+            "himalaya shampoo",
+            "himalaya soap"
+        ]
+    },
+    {
+        "template": "[MASK] face wash",
+        "ground_truth": [
+            "patanjali face wash",
+            "oriflame face wash",
+            "clean & clear face wash",
+            "garnier face wash",
+            "loreal face wash",
+            "nivea face wash",
+            "neem face wash",
+            "ponds face wash",
+            "saint laurent face wash",
+            "lotus herbals face wash",
+            "ayush face wash",
+            "biotique face wash",
+            "clean and clear face wash"
+        ]
+    },
+    {
+        "template": "himalaya [MASK] wash",
+        "ground_truth": [
+            "himalaya body wash"
+        ]
+    }
+]

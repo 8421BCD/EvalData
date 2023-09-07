@@ -1,0 +1,28 @@
+[
+    {
+        "template": "[MASK] diet",
+        "ground_truth": [
+            "arthritis diet",
+            "heart attack diet",
+            "weight loss diet",
+            "obesity diet",
+            "heart disease diet",
+            "pneumonia diet",
+            "heart failure diet",
+            "weight management diet",
+            "low carb diet",
+            "Mediterranean diet",
+            "gluten-free diet",
+            "vegetarian diet"
+        ]
+    },
+    {
+        "template": "diabetes [MASK]",
+        "ground_truth": [
+            "diabetes physical activity",
+            "diabetes eating",
+            "diabetes food",
+            "diabetes treatment"
+        ]
+    }
+]

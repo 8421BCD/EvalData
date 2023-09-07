@@ -1,0 +1,13 @@
+[
+    {
+        "template": "[MASK] to number",
+        "ground_truth": [
+            "decimal to number",
+            "text to number",
+            "octal to number",
+            "hex to number",
+            "hexadecimal to number",
+            "string to number"
+        ]
+    }
+]

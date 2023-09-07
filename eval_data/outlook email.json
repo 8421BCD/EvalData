@@ -1,0 +1,26 @@
+[
+    {
+        "template": "[MASK] email",
+        "ground_truth": [
+            "hotmail email",
+            "gmail email",
+            "yahoo email",
+            "thunderbird email",
+            "aol mail",
+            "protonmail email",
+            "aol email"
+        ]
+    },
+    {
+        "template": "outlook [MASK]",
+        "ground_truth": [
+            "outlook account",
+            "outlook contact",
+            "outlook calendar",
+            "outlook contacts",
+            "outlook archive",
+            "outlook tasks",
+            "outlook inbox"
+        ]
+    }
+]

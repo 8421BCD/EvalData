@@ -1,0 +1,19 @@
+[
+    {
+        "template": "[MASK]",
+        "ground_truth": [
+            "mule",
+            "goat",
+            "horse",
+            "puppies",
+            "burro",
+            "cattle",
+            "cow",
+            "equus africanus asinus",
+            "sheep",
+            "pony",
+            "equus asinus",
+            "puppy"
+        ]
+    }
+]

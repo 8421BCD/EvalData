@@ -1,0 +1,18 @@
+[
+    {
+        "template": "[MASK] command",
+        "ground_truth": [
+            "netstat command",
+            "sed command",
+            "history command",
+            "find command",
+            "wc command",
+            "diff command",
+            "cp command",
+            "awk command",
+            "ls command",
+            "sort command",
+            "cut command"
+        ]
+    }
+]

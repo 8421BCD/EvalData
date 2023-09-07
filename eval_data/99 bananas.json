@@ -1,0 +1,31 @@
+[
+    {
+        "template": "99 [MASK]",
+        "ground_truth": [
+            "99 strawberries",
+            "99 blackberries",
+            "99 vodka",
+            "99 lemon juice",
+            "99 schnapps",
+            "99 cinnamon",
+            "99 apples",
+            "99 xxpresso",
+            "99 grapes",
+            "99 oranges"
+        ]
+    },
+    {
+        "template": "[MASK]",
+        "ground_truth": [
+            "stolichnaya strasberi",
+            "schnapps",
+            "punch",
+            "coconut rum",
+            "vodka",
+            "strawberry vodka",
+            "raspberry vodka",
+            "sour apple schnapps",
+            "peach schnapps"
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "template": "[MASK] diagram",
+        "ground_truth": [
+            "the brain diagram",
+            "skin diagram",
+            "head diagram",
+            "foot diagram",
+            "body diagram",
+            "brain diagram",
+            "wrist diagram",
+            "nose diagram",
+            "mouth diagram",
+            "heart diagram",
+            "eye diagram"
+        ]
+    },
+    {
+        "template": "ear [MASK]",
+        "ground_truth": [
+            "ear anatomy",
+            "ear chart",
+            "ear anatomy diagram",
+            "ear illustration",
+            "ear drawing",
+            "ear image",
+            "ear structure",
+            "ear model"
+        ]
+    }
+]

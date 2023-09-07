@@ -1,0 +1,36 @@
+[
+    {
+        "template": "[MASK] wallpapers",
+        "ground_truth": [
+            "sport wallpapers",
+            "truck wallpapers",
+            "phone wallpapers",
+            "model wallpapers",
+            "vehicle wallpapers",
+            "food wallpapers",
+            "toy wallpapers",
+            "cool wallpapers",
+            "home wallpapers",
+            "gas wallpapers",
+            "flower wallpapers",
+            "phones wallpapers",
+            "mobile wallpapers",
+            "sports wallpapers",
+            "engine wallpapers"
+        ]
+    },
+    {
+        "template": "car [MASK]",
+        "ground_truth": [
+            "car reviews",
+            "car illustrations",
+            "car photos",
+            "car paintings",
+            "car videos",
+            "car backgrounds",
+            "car icons",
+            "car pictures",
+            "car screensavers"
+        ]
+    }
+]

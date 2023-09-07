@@ -1,0 +1,18 @@
+[
+    {
+        "template": "[MASK] smoke detector",
+        "ground_truth": [
+            "onelink smoke detector",
+            "smart smoke detector",
+            "home smoke detector",
+            "battery smoke detector",
+            "netatmo smoke detector",
+            "adt smoke detector",
+            "google smoke detector",
+            "kidde smoke detector",
+            "alexa smoke detector",
+            "first alert smoke detector",
+            "honeywell smoke detector"
+        ]
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "template": "[MASK] acid",
+        "ground_truth": [
+            "hydrochloric acid",
+            "carbamic acid",
+            "acetic acid",
+            "oxalic acid",
+            "citric acid",
+            "sulfamic acid",
+            "phosphoric acid",
+            "nitric acid",
+            "inorganic acid",
+            "sulfuric acid",
+            "formic acid"
+        ]
+    }
+]

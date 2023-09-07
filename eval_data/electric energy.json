@@ -1,0 +1,17 @@
+[
+    {
+        "template": "[MASK] energy",
+        "ground_truth": [
+            "solar energy",
+            "water energy",
+            "geothermal energy",
+            "gasoline energy",
+            "fossil fuel energy",
+            "wind energy",
+            "gas energy",
+            "nuclear energy",
+            "renewable energy",
+            "hydro energy"
+        ]
+    }
+]

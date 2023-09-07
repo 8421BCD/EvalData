@@ -1,0 +1,32 @@
+[
+    {
+        "template": "[MASK] items",
+        "ground_truth": [
+            "toddlers items",
+            "toddler items",
+            "pregnancy items",
+            "infant items",
+            "kids items",
+            "newborn items"
+        ]
+    },
+    {
+        "template": "baby [MASK]",
+        "ground_truth": [
+            "baby bedroom furniture",
+            "baby services",
+            "baby blankets",
+            "baby showers",
+            "baby gift baskets",
+            "baby toys",
+            "baby products",
+            "baby gifts",
+            "baby accessories",
+            "baby new products",
+            "baby registry",
+            "baby clothes",
+            "baby furniture",
+            "baby books"
+        ]
+    }
+]

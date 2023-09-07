@@ -1,0 +1,35 @@
+[
+    {
+        "template": "[MASK] dishwasher",
+        "ground_truth": [
+            "kenmore dishwasher",
+            "miele dishwasher",
+            "thermador dishwasher",
+            "amana dishwasher",
+            "cuisinart dishwasher",
+            "maytag dishwasher",
+            "frigidaire dishwasher",
+            "hotpoint dishwasher",
+            "whirlpool dishwasher",
+            "bosch dishwasher",
+            "samsung dishwasher",
+            "ge dishwasher"
+        ]
+    },
+    {
+        "template": "kitchenaid [MASK]",
+        "ground_truth": [
+            "kitchenaid microwave",
+            "kitchenaid washing machine",
+            "kitchenaid ice maker",
+            "kitchenaid refrigerator",
+            "kitchenaid dryer",
+            "kitchenaid bottom-mount refrigerator",
+            "kitchenaid oven",
+            "kitchenaid mixer",
+            "kitchenaid blender",
+            "kitchenaid toaster",
+            "kitchenaid stove"
+        ]
+    }
+]

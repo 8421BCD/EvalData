@@ -1,0 +1,17 @@
+[
+    {
+        "template": "[MASK]",
+        "ground_truth": [
+            "spongebob squarepants",
+            "teenage mutant ninja turtles",
+            "ghosts",
+            "the thundermans",
+            "victorious",
+            "sam and cat",
+            "nicky ricky dicky & dawn",
+            "game shakers",
+            "icarly",
+            "every witch way"
+        ]
+    }
+]

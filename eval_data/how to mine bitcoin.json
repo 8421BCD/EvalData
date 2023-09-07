@@ -1,0 +1,22 @@
+[
+    {
+        "template": "how to mine [MASK]",
+        "ground_truth": [
+            "how to mine cryptocurrencies",
+            "how to mine cryptocurrency",
+            "how to mine bitcoin cash",
+            "how to mine monero",
+            "how to mine litecoin",
+            "how to mine ethereum",
+            "how to mine dogecoin",
+            "how to mine dash"
+        ]
+    },
+    {
+        "template": "how to [MASK] bitcoin",
+        "ground_truth": [
+            "how to buy bitcoin",
+            "how to use bitcoin"
+        ]
+    }
+]

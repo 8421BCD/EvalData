@@ -1,0 +1,24 @@
+[
+    {
+        "template": "[MASK] java",
+        "ground_truth": [
+            "class java",
+            "float java",
+            "static java",
+            "string java",
+            "int java",
+            "void java",
+            "object java",
+            "long java",
+            "byte java"
+        ]
+    },
+    {
+        "template": "double [MASK]",
+        "ground_truth": [
+            "double python",
+            "double c",
+            "double c++"
+        ]
+    }
+]

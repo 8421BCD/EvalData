@@ -1,0 +1,31 @@
+[
+    {
+        "template": "training [MASK]",
+        "ground_truth": [
+            "training jackets",
+            "training skirts",
+            "training tights & leggings",
+            "training shoes",
+            "training accessories",
+            "training underwear",
+            "training shirts",
+            "training sweaters",
+            "training hats",
+            "training coats & jackets",
+            "training tights",
+            "training joggers",
+            "training shorts"
+        ]
+    },
+    {
+        "template": "[MASK] pants",
+        "ground_truth": [
+            "golf pants",
+            "hiking & hunting pants",
+            "workout pants",
+            "soccer pants",
+            "yoga pants",
+            "hiking & outdoor pants"
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "template": "[MASK] custom",
+        "ground_truth": [
+            "baby clothes custom",
+            "hats custom",
+            "sweatshirts custom",
+            "t shirts custom",
+            "t-shirts custom",
+            "crewnecks custom",
+            "tank tops custom",
+            "sweatpants custom",
+            "jeans custom",
+            "pants custom",
+            "aprons custom",
+            "sportswear custom",
+            "performance shirts custom",
+            "polo shirts custom",
+            "shorts custom",
+            "sweater custom",
+            "shirts custom",
+            "custom t-shirts",
+            "custom polo shirts",
+            "custom sweatshirts",
+            "custom sweatpants",
+            "custom crewnecks"
+        ]
+    }
+]

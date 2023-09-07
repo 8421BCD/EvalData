@@ -1,0 +1,14 @@
+[
+    {
+        "template": "[MASK]",
+        "ground_truth": [
+            "birmingham squadron",
+            "delaware blue coats",
+            "rio grande valley vipers",
+            "wisconsin herd",
+            "austin spurs",
+            "toronto raptors",
+            "westchester knicks"
+        ]
+    }
+]

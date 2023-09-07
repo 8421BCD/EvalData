@@ -1,0 +1,23 @@
+[
+    {
+        "template": "biker [MASK]",
+        "ground_truth": [
+            "biker sweater",
+            "biker clothing",
+            "biker vests",
+            "biker vest",
+            "biker leather",
+            "biker shirt",
+            "biker windbreaker",
+            "biker parka",
+            "biker coat"
+        ]
+    },
+    {
+        "template": "[MASK] jacket",
+        "ground_truth": [
+            "Motorcycle jacket",
+            "Racer jacket"
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "template": "[MASK] boat shoes",
+        "ground_truth": [
+            "hey dude boat shoes",
+            "birkenstock boat shoes",
+            "puma boat shoes",
+            "new balance boat shoes",
+            "skechers boat shoes",
+            "reebok boat shoes",
+            "salomon boat shoes",
+            "newport boat shoes",
+            "sebago boat shoes",
+            "dockers boat shoes",
+            "nautica boat shoes",
+            "timberland boat shoes",
+            "crocs boat shoes",
+            "sperry boat shoes"
+        ]
+    },
+    {
+        "template": "keen [MASK]",
+        "ground_truth": [
+            "keen sneakers & athletic shoes",
+            "keen loafers",
+            "keen outdoor shoes",
+            "keen casual shoes",
+            "keen flip flops"
+        ]
+    }
+]

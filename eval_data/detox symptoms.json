@@ -1,0 +1,17 @@
+[
+    {
+        "template": "[MASK] symptoms",
+        "ground_truth": [
+            "alcohol abuse symptoms",
+            "food allergies symptoms",
+            "seizures symptoms",
+            "drug abuse symptoms",
+            "drug withdrawal symptoms",
+            "rehab symptoms",
+            "alcohol withdrawal symptoms",
+            "prostate cancer symptoms",
+            "purification symptoms",
+            "withdrawal symptoms"
+        ]
+    }
+]

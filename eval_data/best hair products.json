@@ -1,0 +1,15 @@
+[
+    {
+        "template": "best [MASK] products",
+        "ground_truth": [
+            "best beauty products",
+            "best collagen products",
+            "best skin products",
+            "best skin care products",
+            "best makeup products",
+            "best shampoo products",
+            "best body products",
+            "best nail products"
+        ]
+    }
+]

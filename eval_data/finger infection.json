@@ -1,0 +1,32 @@
+[
+    {
+        "template": "[MASK] infection",
+        "ground_truth": [
+            "elbow infection",
+            "shoulder infection",
+            "hand infection",
+            "knee infection",
+            "neck infection",
+            "nose infection",
+            "wrist infection",
+            "ear infection",
+            "nail infection",
+            "foot infection",
+            "skin infection",
+            "toe infection"
+        ]
+    },
+    {
+        "template": "finger [MASK]",
+        "ground_truth": [
+            "finger injury",
+            "finger pain",
+            "finger treatment",
+            "finger swelling",
+            "finger inflammation",
+            "finger trauma",
+            "finger cellulitis",
+            "finger abscess"
+        ]
+    }
+]

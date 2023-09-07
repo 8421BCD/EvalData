@@ -1,0 +1,22 @@
+[
+    {
+        "template": "[MASK] municipal court",
+        "ground_truth": [
+            "steele municipal court",
+            "new york municipal court",
+            "north dakota municipal court",
+            "wishek municipal court",
+            "hazelton municipal court",
+            "new mexico municipal court",
+            "defiance municipal court",
+            "ohio municipal court",
+            "henry county municipal court",
+            "linton municipal court",
+            "wellington municipal court",
+            "logan county municipal court",
+            "fulton county municipal court",
+            "waterloo municipal court",
+            "putnam county municipal court"
+        ]
+    }
+]

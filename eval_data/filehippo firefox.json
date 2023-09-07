@@ -1,0 +1,14 @@
+[
+    {
+        "template": "filehippo [MASK]",
+        "ground_truth": [
+            "filehippo safari",
+            "filehippo chrome",
+            "filehippo google chrome",
+            "filehippo internet explorer",
+            "filehippo opera",
+            "filehippo edge",
+            "filehippo brave"
+        ]
+    }
+]

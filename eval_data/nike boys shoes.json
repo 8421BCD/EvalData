@@ -1,0 +1,46 @@
+[
+    {
+        "template": "[MASK] boys shoes",
+        "ground_truth": [
+            "adidas boys shoes",
+            "reebok boys shoes",
+            "new balance boys shoes",
+            "puma boys shoes",
+            "tommy hilfiger boys shoes",
+            "disney boys shoes",
+            "calvin klein boys shoes",
+            "levi's boys shoes",
+            "converse boys shoes",
+            "under armour boys shoes"
+        ]
+    },
+    {
+        "template": "nike boys [MASK]",
+        "ground_truth": [
+            "nike boys accessories",
+            "nike boys sweaters",
+            "nike boys underwear & socks",
+            "nike boys jeans",
+            "nike boys shirts",
+            "nike boys pants",
+            "nike boys pajamas",
+            "nike boys shirts & tops",
+            "nike boys activewear",
+            "nike boys trainers",
+            "nike boys joggers",
+            "nike boys cleats",
+            "nike boys sneakers",
+            "nike boys clothing",
+            "nike boys shorts"
+        ]
+    },
+    {
+        "template": "nike [MASK] shoes",
+        "ground_truth": [
+            "girls",
+            "women's",
+            "men's",
+            "unisex"
+        ]
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "template": "[MASK] picnic table",
+        "ground_truth": [
+            "hexagonic picnic table",
+            "square picnic table",
+            "octagon picnic table",
+            "oval picnic table",
+            "traditonal rectangular picnic table",
+            "round picnic table",
+            "square with seat backs picnic table",
+            "rectangle picnic table",
+            "octagonal picnic table",
+            "rectangular picnic table",
+            "folding picnic table"
+        ]
+    },
+    {
+        "template": "hexagon [MASK] table",
+        "ground_truth": [
+            "hexagon outdoor table",
+            "hexagon dining table",
+            "hexagon garden table",
+            "hexagon school tables"
+        ]
+    }
+]

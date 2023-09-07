@@ -1,0 +1,15 @@
+[
+    {
+        "template": "[MASK] streaming",
+        "ground_truth": [
+            "twitch streaming",
+            "youtube live streaming",
+            "youtube streaming",
+            "twitter streaming",
+            "instagram streaming",
+            "hulu streaming",
+            "netflix streaming",
+            "amazon prime streaming"
+        ]
+    }
+]

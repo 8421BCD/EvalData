@@ -1,0 +1,41 @@
+[
+    {
+        "template": "[MASK] college girls",
+        "ground_truth": [
+            "funny college girls",
+            "pretty college girls",
+            "young college girls",
+            "happy college girls",
+            "cool college girls",
+            "inspirational college girls",
+            "beautiful college girls",
+            "attractive college girls",
+            "charming college girls",
+            "fashionable college girls"
+        ]
+    },
+    {
+        "template": "cute [MASK] girls",
+        "ground_truth": [
+            "cute halloween girls",
+            "cute shopping girls",
+            "cute company girls",
+            "cute graduate school girls",
+            "cute high school girls",
+            "cute school girls",
+            "adorable high school girls",
+            "lovely junior college girls",
+            "charming university girls",
+            "attractive community college girls",
+            "cute academy girls",
+            "cute institute girls",
+            "cute education girls"
+        ]
+    },
+    {
+        "template": "cute college [MASK]",
+        "ground_truth": [
+            "boys"
+        ]
+    }
+]

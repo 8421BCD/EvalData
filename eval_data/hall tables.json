@@ -1,0 +1,28 @@
+[
+    {
+        "template": "hall [MASK]",
+        "ground_truth": [
+            "hall mirrors",
+            "hall seating",
+            "hall benches",
+            "hall pillows",
+            "hall chairs",
+            "hall cabinets",
+            "hall dressers",
+            "hall consoles",
+            "hall desks",
+            "hall sideboards",
+            "hall stools",
+            "hall bookcases",
+            "hall shelves"
+        ]
+    },
+    {
+        "template": "[MASK] tables",
+        "ground_truth": [
+            "dining room tables",
+            "dining tables",
+            "living room tables"
+        ]
+    }
+]

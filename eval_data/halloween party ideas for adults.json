@@ -1,0 +1,43 @@
+[
+    {
+        "template": "[MASK] party ideas for adults",
+        "ground_truth": [
+            "christmas party ideas for adults",
+            "new year's eve party ideas for adults",
+            "fall party ideas for adults",
+            "easter party ideas for adults",
+            "mardi gras party ideas for adults",
+            "thanksgiving party ideas for adults",
+            "valentines day party ideas for adults",
+            "valentine's day party ideas for adults",
+            "haunted house ideas for adults"
+        ]
+    },
+    {
+        "template": "halloween party [MASK] for adults",
+        "ground_truth": [
+            "halloween party recipes for adults",
+            "halloween party games for adults",
+            "halloween party themes for adults",
+            "halloween party decorations for adults",
+            "halloween party costumes for adults",
+            "halloween party food for adults"
+        ]
+    },
+    {
+        "template": "halloween [MASK] ideas for adults",
+        "ground_truth": [
+            "halloween birthday ideas for adults",
+            "halloween food ideas for adults",
+            "halloween entertainment ideas for adults",
+            "halloween decoration ideas for adults",
+            "halloween theme ideas for adults"
+        ]
+    },
+    {
+        "template": "halloween party ideas for [MASK]",
+        "ground_truth": [
+            "halloween party ideas for kids"
+        ]
+    }
+]

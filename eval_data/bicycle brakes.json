@@ -1,0 +1,27 @@
+[
+    {
+        "template": "bicycle [MASK]",
+        "ground_truth": [
+            "bicycle tires",
+            "bicycle wheels",
+            "bicycle frames",
+            "bicycle rim",
+            "bicycle disc",
+            "bicycle gears",
+            "bicycle pedals",
+            "bicycle handlebars",
+            "bicycle chains"
+        ]
+    },
+    {
+        "template": "[MASK] brakes",
+        "ground_truth": [
+            "dirt bike brakes",
+            "wheel brakes",
+            "scooter brakes",
+            "car brakes",
+            "motorcycle brakes",
+            "truck brakes"
+        ]
+    }
+]

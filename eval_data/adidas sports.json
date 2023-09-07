@@ -1,0 +1,31 @@
+[
+    {
+        "template": "adidas [MASK]",
+        "ground_truth": [
+            "adidas clothing",
+            "adidas apparel",
+            "adidas shoes",
+            "adidas accessories",
+            "adidas outdoor",
+            "adidas running shoes",
+            "adidas athletic wear",
+            "adidas sneakers",
+            "adidas workout clothes",
+            "adidas originals"
+        ]
+    },
+    {
+        "template": "[MASK] sports",
+        "ground_truth": [
+            "puma sports",
+            "gear sports",
+            "calvin klein sports",
+            "converse sports",
+            "nike sports",
+            "mizuno sports",
+            "new balance sports",
+            "under armour sports",
+            "asics sports"
+        ]
+    }
+]

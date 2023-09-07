@@ -1,0 +1,16 @@
+[
+    {
+        "template": "[MASK] mat",
+        "ground_truth": [
+            "anti-slip mat",
+            "standing desk mat",
+            "kitchen mat",
+            "anti-stress mat",
+            "cushioned mat",
+            "anti-static mat",
+            "standing mat",
+            "comfort mat",
+            "ergonomic mat"
+        ]
+    }
+]

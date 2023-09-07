@@ -1,0 +1,14 @@
+[
+    {
+        "template": "diecast [MASK]",
+        "ground_truth": [
+            "diecast trucks",
+            "diecast emergency vehicles",
+            "diecast tractors",
+            "diecast motorcycles",
+            "diecast airplanes",
+            "diecast trains",
+            "diecast boats"
+        ]
+    }
+]

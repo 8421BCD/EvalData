@@ -1,0 +1,35 @@
+[
+    {
+        "template": "[MASK] treatment",
+        "ground_truth": [
+            "stress treatment",
+            "addiction treatment",
+            "insomnia treatment",
+            "fatigue treatment",
+            "depression treatment",
+            "chronic depression treatment",
+            "adhd treatment",
+            "nausea treatment",
+            "post-traumatic stress disorder treatment",
+            "chronic pain treatment",
+            "panic disorder treatment",
+            "social anxiety disorder treatment"
+        ]
+    },
+    {
+        "template": "anxiety [MASK]",
+        "ground_truth": [
+            "anxiety diagnosis",
+            "anxiety coping and support",
+            "anxiety symptoms",
+            "anxiety prognosis",
+            "anxiety medication",
+            "anxiety prevention",
+            "anxiety support",
+            "anxiety alternative medicine",
+            "anxiety management",
+            "anxiety intervention",
+            "anxiety counseling"
+        ]
+    }
+]

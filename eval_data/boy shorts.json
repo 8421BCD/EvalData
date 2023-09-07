@@ -1,0 +1,29 @@
+[
+    {
+        "template": "boy [MASK]",
+        "ground_truth": [
+            "boy swimwear",
+            "boy pants",
+            "boy robes",
+            "boy skirts",
+            "boy leggings",
+            "boy vests",
+            "boy shirts",
+            "boy sweaters",
+            "boy jackets",
+            "boy jeans",
+            "boy trousers",
+            "boy khakis"
+        ]
+    },
+    {
+        "template": "[MASK] shorts",
+        "ground_truth": [
+            "athletic shorts",
+            "Girl shorts",
+            "Women's shorts",
+            "Men's shorts",
+            "Kids' shorts"
+        ]
+    }
+]

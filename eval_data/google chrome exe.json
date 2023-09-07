@@ -1,0 +1,12 @@
+[
+    {
+        "template": "[MASK] exe",
+        "ground_truth": [
+            "internet explorer exe",
+            "mozilla firefox exe",
+            "firefox exe",
+            "opera exe",
+            "microsoft edge exe"
+        ]
+    }
+]

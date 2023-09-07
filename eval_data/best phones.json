@@ -1,0 +1,16 @@
+[
+    {
+        "template": "best [MASK]",
+        "ground_truth": [
+            "best tablets",
+            "best tvs",
+            "best printers",
+            "best cameras",
+            "best wireless charging",
+            "best keyboards",
+            "best laptops",
+            "best headphones",
+            "best smartwatches"
+        ]
+    }
+]

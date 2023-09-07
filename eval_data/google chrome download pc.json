@@ -1,0 +1,16 @@
+[
+    {
+        "template": "[MASK] download pc",
+        "ground_truth": [
+            "safari download pc",
+            "firefox browser download pc",
+            "mozilla firefox beta download pc",
+            "mozilla firefox download pc",
+            "internet explorer download pc",
+            "microsoft edge download pc",
+            "chrome download pc",
+            "firefox download pc",
+            "opera download pc"
+        ]
+    }
+]

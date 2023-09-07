@@ -1,0 +1,36 @@
+[
+    {
+        "template": "[MASK] for men",
+        "ground_truth": [
+            "sweatshirts for men",
+            "shoes for men",
+            "tops for men",
+            "pants for men",
+            "jackets for men",
+            "sweaters for men",
+            "denim for men",
+            "shorts for men",
+            "shorts & jackets for men",
+            "shirts for men",
+            "outerwear for men",
+            "waistcoats for men",
+            "blazers for men",
+            "pullovers for men",
+            "hoodies for men",
+            "coats for men"
+        ]
+    },
+    {
+        "template": "vests for [MASK]",
+        "ground_truth": [
+            "vests for kids & baby",
+            "vests for kids",
+            "vests for women",
+            "vests for toddlers",
+            "vests for girls",
+            "vests for infants",
+            "vests for babies",
+            "vests for boys"
+        ]
+    }
+]

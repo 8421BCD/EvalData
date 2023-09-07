@@ -1,0 +1,17 @@
+[
+    {
+        "template": "[MASK] stitches",
+        "ground_truth": [
+            "crochet stitches",
+            "applique stitches",
+            "specialty stitches",
+            "embroidery stitches",
+            "quilting stitches",
+            "traditional stitches",
+            "sewing stitches",
+            "modern stitches",
+            "fancy stitches",
+            "sewing machine stitches"
+        ]
+    }
+]

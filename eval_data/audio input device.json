@@ -1,0 +1,35 @@
+[
+    {
+        "template": "audio [MASK] device",
+        "ground_truth": [
+            "audio output device",
+            "audio display device",
+            "audio recording device",
+            "audio jack device",
+            "audio drivers device",
+            "audio processing device",
+            "audio interface device",
+            "audio playback device"
+        ]
+    },
+    {
+        "template": "[MASK] input device",
+        "ground_truth": [
+            "video input device",
+            "microphone input device",
+            "security input device",
+            "voice input device",
+            "speaker input device",
+            "recording input device",
+            "sound input device"
+        ]
+    },
+    {
+        "template": "audio [MASK]",
+        "ground_truth": [
+            "audio sound cards",
+            "audio sound card",
+            "audio speakers"
+        ]
+    }
+]

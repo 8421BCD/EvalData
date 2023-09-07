@@ -1,0 +1,24 @@
+[
+    {
+        "template": "best [MASK] watch",
+        "ground_truth": [
+            "best biking watch",
+            "best heart rate watch",
+            "best swim watch",
+            "best swimming watch",
+            "best cycling watch",
+            "best walking watch",
+            "best triathlon watch",
+            "best garmin watch",
+            "best hiking wear watch",
+            "best fitness watch",
+            "best hiking watch"
+        ]
+    },
+    {
+        "template": "best running [MASK]",
+        "ground_truth": [
+            "best running gps"
+        ]
+    }
+]

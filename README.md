@@ -24,6 +24,7 @@ Finally, we manually create exploratory groups for each query (such as “Cartie
 ## 📝 Data Format
 
 Here is an example from the dataset:
+adidas jeans.json
 ```json
 [
     {
@@ -65,7 +66,7 @@ Here is an example from the dataset:
     }
 ]
 ```
-The "ground_truth" field represents an exploratory query group, which contains a list of high-quality exploratory queries used for model evaluation. The '[MASK]' in the 'template' field represents the replaced term in the original query.
+The 'adidas jeans' is the original user query. The "ground_truth" field represents an exploratory query group, which contains a list of high-quality exploratory queries used for model evaluation. The '[MASK]' in the 'template' field represents the replaced term in the original query.
 ## 📝 Future Work
 In the future, we will expand the size of the dataset and add an exploratory question for each exploratory query group (e.g., 'What other brands are you also interested in?' for group '[MASK] jeans') to make our dataset better suited for conversational search scenarios.
 

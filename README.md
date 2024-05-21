@@ -2,7 +2,7 @@
 
 ## 📋 Overview
 
-Welcome to the Exploratory Query Evaluation Dataset! This dataset was created to facilitate the evaluation of our exploratory query generation task. We sampled 100 queries randomly from the MIMICS dataset to create the evaluation data.
+Welcome to the Exploratory Query Evaluation Dataset, the eval data used by our work Mining Exploratory Queries for Conversational Search\[[Paper](https://dl.acm.org/doi/pdf/10.1145/3589334.3645424)\], which had been accepted by WWW 2024! This dataset was created to facilitate the evaluation of our exploratory query generation task. We sampled 100 queries randomly from the MIMICS dataset to create the evaluation data.
 
 ## 📄 Dataset Details
 
